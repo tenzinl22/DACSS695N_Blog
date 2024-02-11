@@ -1,0 +1,5 @@
+---
+title: "DACSS 695N Blog"
+site: distill::distill_website
+listing: posts
+---
